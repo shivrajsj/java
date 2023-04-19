@@ -1,0 +1,7 @@
+class Newdemogit
+{
+public void m1()
+{
+//code 1
+}
+}
